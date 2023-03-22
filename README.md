@@ -1,4 +1,4 @@
-#BHGC Open MoonRay
+# BHGC Open MoonRay
 
 Ongoing test builds of Open MoonRay on Linux and Windows and testing Houdini Solaris integration.
 
