@@ -1,3 +1,7 @@
+#BHGC Open MoonRay
+
+Ongoing test builds of Open MoonRay on Linux and Windows and testing Houdini Solaris integration.
+
 # MoonRay
 MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer, which has been used on the following feature films:
 * [How to Train Your Dragon: The Hidden World](https://www.dreamworks.com/movies/how-to-train-your-dragon-the-hidden-world)
